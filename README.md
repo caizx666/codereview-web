@@ -1,2 +1,2 @@
 # codereview-web
-code review publish website
+代码review的宣传网站
